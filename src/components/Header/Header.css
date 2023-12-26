@@ -1,0 +1,46 @@
+.header {
+    background-color: #495e57;
+}
+
+.header_container {
+    height: 330px;
+    display: flex;
+    width: 750px;
+    margin: 0 auto 0 auto;
+    padding-top: 10px;
+}
+
+.header_col_1 {
+    margin-right: 100px;
+}
+
+.header_heading {
+    color: #f4ce14;
+    font-family: "Markazi Text", serif;
+    font-size: 40pt;
+}
+
+.header_subheading {
+    font-family: "Markazi Text", serif;
+    color: #edefee;
+    font-size: 25pt;
+}
+
+.header_para {
+    font-family: "Inter", sans-serif;
+    color: #edefee;
+    font-weight: lighter;
+    padding-top: 20px;
+}
+
+.header_button {
+    margin-top: 20px;
+}
+
+.header_image {
+    margin-top: 10px;
+    width: 290px;
+    height: 350px;
+    border-radius: 14px;
+    padding-left: 10px;
+}
